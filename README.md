@@ -13,7 +13,7 @@ I’m Roger Mabag, founder of r8gCMO, operating through an Embedded + Operator m
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rogemabag)](https://twitter.com/rogermabag)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogermabag/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rareroge/)](https://www.instagram.com/rareroj)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@rogemabag.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hi@r8gcmo.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.rogemabag.com)](https://www.r8gcmo.com/)
 [![Github](https://img.shields.io/github/followers/RogerMab?label=Follow&style=social)](https://github.com/rogermabag)
 
