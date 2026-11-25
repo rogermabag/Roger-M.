@@ -15,7 +15,7 @@ I’m Roger Mabag, founder of r8gCMO, operating through an Embedded + Operator m
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rareroge/)](https://www.instagram.com/rareroj)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@rogemabag.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.rogemabag.com)](https://www.r8gcmo.com/)
-[![Github](https://img.shields.io/github/followers/RogerMab?label=Follow&style=social)](https://github.com/RogerMab)
+[![Github](https://img.shields.io/github/followers/RogerMab?label=Follow&style=social)](https://github.com/rogermabag)
 
 - 🚀 Founder of r8gCMO | Fractional CMO & CRO
 - 📈 Helping businesses scale through GTM, marketing, sales & RevOps
