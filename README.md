@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I’m Roger M. Fractional CMO with 15+ years of leadership, $15M+ monthly ad spend managed, 3,000+ campaigns launched, and $500M–$1.8B in ARR impact. I bridge strategy and execution, aligning GTM, omnichannel, RevOps, and AI automation into one growth engine that accelerates acquisition, retention, and revenue. 
+I’m Roger Mabag, founder of r8gCMO, operating through an Embedded + Operator model. Rather than offering high-level advice from the sidelines, I work inside your organization, integrating three executive-level disciplines: Fractional CMO, Fractional CRO, and the 100-Day Accelerator, into one accountable revenue engine.
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Why 2026 Will Be the Year CMOs Take Full Control of Revenue](https://www.rogemabag.com/post/why-2026-will-be-the-year-cmos-take-full-control-of-revenue)
+[Why 2026 Will Be the Year CMOs Take Full Control of Revenue](https://www.r8gcmo.com/post/why-2026-will-be-the-year-cmos-take-full-control-of-revenue)
 
 
 <!-- BLOG-POST-LIST:END -->
@@ -17,13 +17,12 @@ I’m Roger M. Fractional CMO with 15+ years of leadership, $15M+ monthly ad spe
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.rogemabag.com)](https://www.rogemabag.com)
 [![Github](https://img.shields.io/github/followers/RogerMab?label=Follow&style=social)](https://github.com/RogerMab)
 
-- 🔭 I’m currently working on something cool 😉
-- 🤔 I’m currently reading [Machine Learning and Generative AI by Yoon Hwang and Nicholas Burtch]
-- 🌱 I also teach PPC (Google Ads) Masterclass.
-- 👨‍💻 Read more about me at https://www.rogermabag.com
-- 📫 How to reach me: hi@rogermabag.com
-
-
+- 🚀 Founder of r8gCMO | Fractional CMO & CRO
+- 📈 Helping businesses scale through GTM, marketing, sales & RevOps
+- 🤔 I’m currently reading [Machine Learning and Generative AI for Marketing by Yoon Hwang and Nicholas Burtch]
+- 🤝 Open to Fractional CMO, Fractional CRO, or 100-Day Accelerator engagements.
+- 👨‍💻 Read more about me at https://www.r8gCMO.com
+- 📫 How to reach me: hi@r8gCMO.com
 
 
 ### 🖥 Skills
